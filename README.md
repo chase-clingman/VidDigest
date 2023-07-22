@@ -42,4 +42,4 @@ quasar build -m bex
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
-All API Keys are innactive
+All API Keys are inactive
